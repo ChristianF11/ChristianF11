@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @ChristianF11
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
-- Personal blog site: christianf11.github.io
+Hi! I'm Christian Fresu a 20 y/o Software Developer and student who loves to learn new topics about programming.
 
-<!---
-ChristianF11/ChristianF11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+> *Code is a powerful tool that "transforms ideas into reality."🪄*
+
+<br>Check my other profiles👀:
+
+- [Programming and Tech blog](https://christianf11.hashnode.dev/)
+- [GetCode.Dev](https://getcodes.hashnode.dev/)
+- [Personal Blog on "Medium"](https://medium.com/@ChristianFresu)
+
+### Projects
+- Notion templates for everyone ([click here](https://christianf11.gumroad.com/)👈🏻)
+- ["Indovina la somma"](https://play.google.com/store/apps/details?id=it.frittomistogames.guessthenumber)
+
