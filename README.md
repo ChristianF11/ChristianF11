@@ -1,4 +1,4 @@
-Hi! I'm Christian Fresu, a 20 y/o Software Developer and student who loves to learn new topics about programming.
+Hi! I'm Christian Fresu, a 21 y/o Software Developer and student who loves to learn new topics about programming.
 
 &nbsp;<br>
 
